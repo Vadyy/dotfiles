@@ -17,11 +17,11 @@ window#waybar {
 }
 
 .modules-left {
-  margin-left: 8px;
+  margin-left: 6px;
 }
 
 .modules-right {
-  margin-right: 8px;
+  margin-right: 2px;
 }
 
 #workspaces button {
@@ -93,6 +93,10 @@ window#waybar {
 
 #pulseaudio {
   padding-right: 12px;
+}
+
+#custom-omarchy {
+  font-size: 16px;
 }
 
 #custom-expand-icon {
